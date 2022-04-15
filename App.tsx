@@ -71,7 +71,6 @@ const HelloWorldApp = () => {
     });
 
     await Promise.all(promises).then(results => {
-      console.log(results);
       results.map((item, i) => {
         setRows(rows => [
           ...rows,
@@ -84,13 +83,13 @@ const HelloWorldApp = () => {
           ],
         ]);
       });
-      sortArray();
     });
   };
 
   function sortArray() {
-    const sortedData = rows.sort((a, b) => b[4] - a[4]);
-    setRows(sortedData);
+    // const sortedData = rows.sort((a, b) => b[4] - a[4]);
+    let ranges = rows.sort((a, b) => a[4] - b[4]);
+    setRows(ranges);
   }
 
   function createFantasyPoints(stats: any) {
@@ -106,8 +105,8 @@ const HelloWorldApp = () => {
     'Name',
     'Goals',
     'Assists',
-    'asdf',
-    'Fantasy Points',
+    'Points',
+    'F Points',
   ]);
 
   useEffect(() => {
@@ -116,8 +115,12 @@ const HelloWorldApp = () => {
   }, []);
 
   useEffect(() => {
-    // console.log(rows);
-  }, [rows]);
+    // when rows.length = players.length, sort array
+    if (rows.length === players.length) {
+      let sortedArray = rows.sort((a, b) => a[4] - b[4]);
+      setRows(sortedArray);
+    }
+  }, [rows, players]);
 
   return (
     <View style={styles.container}>

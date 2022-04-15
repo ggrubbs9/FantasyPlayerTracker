@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.68.0] /Users/graham.grubbs/.gradle/caches/transforms-3/8a462c5b9dd46346cd27be793c485ce3/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/graham.grubbs/.gradle/caches/transforms-3/99b761c98c2e5ea5e4c122c4c9689ebe/transformed/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/9dda8c6af0c53515ef2d9b9ec182d89e/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/8f8d4d3f5c38d0ff7ae1fc4d9e5418d5/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/c4071ab9f920e749e7c1fde7fc0c1703/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/de0f28b38aae77792acf47764421fca4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/graham.grubbs/.gradle/caches/transforms-3/fb03fdb44309cf614c7c1ab25932873a/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/7d114d63ff7ee14fe83d5bdd59366c02/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/bcd6e302b29e087ca9694ce76fb88bf2/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/b9942fd27894375c6b8500059e7f1ee0/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/d5eebb9b69db659bf9a9a875dabd85f7/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/0c8d636cf8389566928174b3782b88a5/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/c07c3476a674f600919ceda3cf9ea48b/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/db49cded8a1671d6b2f3d30a7647c8fa/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/a1c160b6de3232959019077b2f6c3a73/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/c47c446b6e9095b586231fe16c48825d/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/1a999876013d682779b0daf8c5379611/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/22c63092c41ee2200411c8345df08b22/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/d2701f8a3844a7d7c1e8e0a64da66bce/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/0f72ae7dfbd7edb0f3b7792796996ded/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/731d3d6ef9824ac56cd51f2568e8a124/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/9564c3e32b1a334382b345e096619154/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/graham.grubbs/.gradle/caches/transforms-3/538b8206bac0d326eadcdd4ee56e4444/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/2189a00165adef0aa2f6cf4a8aa1c703/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/6a1c82464f3f013ea6e525ad4e5b9a40/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/graham.grubbs/.gradle/caches/transforms-3/e040a966e761249953589d301956f2ab/transformed/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/456a23100663eb0128a9557da200a306/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/53390b6950aa062906da46d4f5e679fc/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/c13978bd4ce62b4193a2e9ac65e8291d/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/df08d46d11f910ed568b76d2be0e0ac0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/9780cbdcccef3ba88c8c274193e9d6f2/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/80b4f94677813791c80a900a05475c02/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/8dfa07240a8cd681accfd95b86e06b2a/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/6b6c4c5ca33de9a27bce073099d78738/transformed/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/a4fd3e4fd496863158cb21a777ddb0e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/e3d4436446ccc1afdd1a1bc96d10257e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/3ad599a4c68d82ad3b5f9aa7dc160d5d/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/2339fe4dc97de4572ad2901f3caea40a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/ca4dc461bbed1a81b976b85a78c7cc01/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/769193c06609696e9cb0e1f0b9d345bf/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/221dbfb042d0159844b03c5278d73100/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/25be307a17fd6e4cc6ebb5eb9e6e4b1c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/5e7dc078423d0227478159005cbbe700/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/5e355e30ce30492fffa7d13df55c35a2/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/3102e1eda8b150f054654e6301f84563/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.68.0] /Users/graham.grubbs/.gradle/caches/transforms-3/8a462c5b9dd46346cd27be793c485ce3/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.68.0] /Users/graham.grubbs/.gradle/caches/transforms-3/8a462c5b9dd46346cd27be793c485ce3/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/graham.grubbs/.gradle/caches/transforms-3/538b8206bac0d326eadcdd4ee56e4444/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/graham.grubbs/.gradle/caches/transforms-3/538b8206bac0d326eadcdd4ee56e4444/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/6b6c4c5ca33de9a27bce073099d78738/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/6b6c4c5ca33de9a27bce073099d78738/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/a4fd3e4fd496863158cb21a777ddb0e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/a4fd3e4fd496863158cb21a777ddb0e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/6b6c4c5ca33de9a27bce073099d78738/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.playertracker.MainActivity
+ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:13:7-24:18
+	android:label
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml:22:23-70
+uses-sdk
+INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.68.0] /Users/graham.grubbs/.gradle/caches/transforms-3/8a462c5b9dd46346cd27be793c485ce3/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.0] /Users/graham.grubbs/.gradle/caches/transforms-3/8a462c5b9dd46346cd27be793c485ce3/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/graham.grubbs/.gradle/caches/transforms-3/99b761c98c2e5ea5e4c122c4c9689ebe/transformed/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/graham.grubbs/.gradle/caches/transforms-3/99b761c98c2e5ea5e4c122c4c9689ebe/transformed/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/9dda8c6af0c53515ef2d9b9ec182d89e/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/9dda8c6af0c53515ef2d9b9ec182d89e/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/8f8d4d3f5c38d0ff7ae1fc4d9e5418d5/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/8f8d4d3f5c38d0ff7ae1fc4d9e5418d5/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/c4071ab9f920e749e7c1fde7fc0c1703/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/c4071ab9f920e749e7c1fde7fc0c1703/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/de0f28b38aae77792acf47764421fca4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/de0f28b38aae77792acf47764421fca4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] /Users/graham.grubbs/.gradle/caches/transforms-3/fb03fdb44309cf614c7c1ab25932873a/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/graham.grubbs/.gradle/caches/transforms-3/fb03fdb44309cf614c7c1ab25932873a/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/7d114d63ff7ee14fe83d5bdd59366c02/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/7d114d63ff7ee14fe83d5bdd59366c02/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/bcd6e302b29e087ca9694ce76fb88bf2/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/bcd6e302b29e087ca9694ce76fb88bf2/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/b9942fd27894375c6b8500059e7f1ee0/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/b9942fd27894375c6b8500059e7f1ee0/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/d5eebb9b69db659bf9a9a875dabd85f7/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/d5eebb9b69db659bf9a9a875dabd85f7/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/0c8d636cf8389566928174b3782b88a5/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/0c8d636cf8389566928174b3782b88a5/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/c07c3476a674f600919ceda3cf9ea48b/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/c07c3476a674f600919ceda3cf9ea48b/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/db49cded8a1671d6b2f3d30a7647c8fa/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/db49cded8a1671d6b2f3d30a7647c8fa/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/a1c160b6de3232959019077b2f6c3a73/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/a1c160b6de3232959019077b2f6c3a73/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/c47c446b6e9095b586231fe16c48825d/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/c47c446b6e9095b586231fe16c48825d/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/1a999876013d682779b0daf8c5379611/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/1a999876013d682779b0daf8c5379611/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/22c63092c41ee2200411c8345df08b22/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/22c63092c41ee2200411c8345df08b22/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/d2701f8a3844a7d7c1e8e0a64da66bce/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/d2701f8a3844a7d7c1e8e0a64da66bce/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/0f72ae7dfbd7edb0f3b7792796996ded/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/0f72ae7dfbd7edb0f3b7792796996ded/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/731d3d6ef9824ac56cd51f2568e8a124/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/731d3d6ef9824ac56cd51f2568e8a124/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/9564c3e32b1a334382b345e096619154/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/9564c3e32b1a334382b345e096619154/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/graham.grubbs/.gradle/caches/transforms-3/538b8206bac0d326eadcdd4ee56e4444/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/graham.grubbs/.gradle/caches/transforms-3/538b8206bac0d326eadcdd4ee56e4444/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/2189a00165adef0aa2f6cf4a8aa1c703/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/2189a00165adef0aa2f6cf4a8aa1c703/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/6a1c82464f3f013ea6e525ad4e5b9a40/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/6a1c82464f3f013ea6e525ad4e5b9a40/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/graham.grubbs/.gradle/caches/transforms-3/e040a966e761249953589d301956f2ab/transformed/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/graham.grubbs/.gradle/caches/transforms-3/e040a966e761249953589d301956f2ab/transformed/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/456a23100663eb0128a9557da200a306/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/456a23100663eb0128a9557da200a306/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/53390b6950aa062906da46d4f5e679fc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/53390b6950aa062906da46d4f5e679fc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/c13978bd4ce62b4193a2e9ac65e8291d/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/c13978bd4ce62b4193a2e9ac65e8291d/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/df08d46d11f910ed568b76d2be0e0ac0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/df08d46d11f910ed568b76d2be0e0ac0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/9780cbdcccef3ba88c8c274193e9d6f2/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/9780cbdcccef3ba88c8c274193e9d6f2/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/80b4f94677813791c80a900a05475c02/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/80b4f94677813791c80a900a05475c02/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/8dfa07240a8cd681accfd95b86e06b2a/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/8dfa07240a8cd681accfd95b86e06b2a/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/6b6c4c5ca33de9a27bce073099d78738/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/6b6c4c5ca33de9a27bce073099d78738/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/a4fd3e4fd496863158cb21a777ddb0e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/graham.grubbs/.gradle/caches/transforms-3/a4fd3e4fd496863158cb21a777ddb0e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/e3d4436446ccc1afdd1a1bc96d10257e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/e3d4436446ccc1afdd1a1bc96d10257e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/3ad599a4c68d82ad3b5f9aa7dc160d5d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/3ad599a4c68d82ad3b5f9aa7dc160d5d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/2339fe4dc97de4572ad2901f3caea40a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/2339fe4dc97de4572ad2901f3caea40a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/ca4dc461bbed1a81b976b85a78c7cc01/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/ca4dc461bbed1a81b976b85a78c7cc01/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/769193c06609696e9cb0e1f0b9d345bf/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/769193c06609696e9cb0e1f0b9d345bf/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/221dbfb042d0159844b03c5278d73100/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/221dbfb042d0159844b03c5278d73100/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/25be307a17fd6e4cc6ebb5eb9e6e4b1c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/25be307a17fd6e4cc6ebb5eb9e6e4b1c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/5e7dc078423d0227478159005cbbe700/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/5e7dc078423d0227478159005cbbe700/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/5e355e30ce30492fffa7d13df55c35a2/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/graham.grubbs/.gradle/caches/transforms-3/5e355e30ce30492fffa7d13df55c35a2/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/3102e1eda8b150f054654e6301f84563/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/graham.grubbs/.gradle/caches/transforms-3/3102e1eda8b150f054654e6301f84563/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/graham.grubbs/Coding/PlayerTracker/android/app/src/main/AndroidManifest.xml
